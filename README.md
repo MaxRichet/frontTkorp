@@ -5,7 +5,7 @@ This project is a simple API that manages people and animals. It includes a comp
 ## Project setup
 
 ### 1.
-Read the Readme file of this repository :
+Read the Readme file of this repository : https://github.com/MaxRichet/backTkorp
 Download this repository : https://github.com/MaxRichet/frontTkorp
 
 ### 2.
