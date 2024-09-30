@@ -6,7 +6,7 @@ This project is a simple API that manages people and animals. It includes a comp
 
 ### 1.
 Read the Readme file of this repository :
-Download this repository :
+Download this repository : https://github.com/MaxRichet/frontTkorp
 
 ### 2.
 ```bash
